@@ -38,5 +38,13 @@ The node created allows when the ArUco marker is detected on the screen, dependi
 
 
 ### Below is an image created with rqt_graph function to visualise the working of nodes
+
 ![rosgraph](https://github.com/roshdwivedi/turtlesim_rosh/assets/100048354/a484540d-1f47-484a-b31c-c6e08d69b9c5)
+
+#### You can use these Aruco markers below with id 1 & 5
+
+* ![IMG_5469](https://github.com/roshdwivedi/turtlesim_rosh/assets/100048354/c61ecd51-3f18-47d1-8273-1acd17ea123c)
+* ![IMG_5468](https://github.com/roshdwivedi/turtlesim_rosh/assets/100048354/5af4c8d8-4d54-4e5b-b14d-d63465f7b55c)
+
+
 
